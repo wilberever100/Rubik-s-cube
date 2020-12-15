@@ -1,6 +1,6 @@
 # Rubik-s-cube
 
-_ Ciencia de la Computación   Universidad Católica San Pablo 
-##Alumno Wilber Correa 
-##Profesor Manuel Loayza
-##Curso Computación Gráfica
+## Ciencia de la Computación   Universidad Católica San Pablo 
+## Alumno Wilber Correa 
+## Profesor Manuel Loayza
+## Curso Computación Gráfica
